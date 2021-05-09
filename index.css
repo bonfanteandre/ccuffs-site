@@ -1,3 +1,7 @@
+* {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .sidenav {    
     background-color: #282830;
     color: #ECF0F1;
@@ -40,7 +44,11 @@
 }
 
 .sidenav ul a:hover {
-    border-bottom: 1px solid #ECF0F1;
+    border-bottom: 2px solid #ECF0F1;
+}
+
+.content p {
+    font-size: 130%;
 }
 
 @media screen and (min-width: 992px) {
