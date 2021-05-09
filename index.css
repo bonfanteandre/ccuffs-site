@@ -1,0 +1,19 @@
+.sidenav {    
+    background-color: #112233;
+    color: #ECF0F1;
+}
+
+@media screen and (min-width: 992px) {
+    .sidenav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 300px;
+    }
+
+    .content {
+        width: 100%;
+        padding-left: 300px;
+    }
+}
