@@ -3,6 +3,24 @@
     color: #ECF0F1;
 }
 
+.sidenav img {
+    height: 200px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+    display: block;
+    margin-top: 10px;
+}
+
+.sidenav h2 {
+    margin-top: 10px;
+}
+
+.sidenav h5 {
+    color: #b1b1b1;   
+}
+
 @media screen and (min-width: 992px) {
     .sidenav {
         position: fixed;
