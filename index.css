@@ -21,6 +21,28 @@
     color: #b1b1b1;   
 }
 
+.sidenav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.sidenav li {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.sidenav ul a {
+    text-decoration: none;
+    color: #ECF0F1;
+    font-size: 130%;
+    display: block;
+    
+}
+
+.sidenav ul a:hover {
+    border-bottom: 1px solid #ECF0F1;
+}
+
 @media screen and (min-width: 992px) {
     .sidenav {
         position: fixed;
