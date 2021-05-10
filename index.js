@@ -1,1 +1,1 @@
-console.log('olá!');
+new GitHubCalendar(".calendar", "bonfanteandre");
