@@ -31,20 +31,21 @@
 }
 
 .sidenav li {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     text-align: center;
 }
 
-.sidenav ul a {
+.menu-link {
     text-decoration: none;
-    color: #ECF0F1;
+    color: #bcbebe;
     font-size: 130%;
     display: block;
     
 }
 
-.sidenav ul a:hover {
-    border-bottom: 2px solid #ECF0F1;
+.menu-link:hover {
+    color: #ECF0F1;
+    transition: color 0.5s;
 }
 
 .sidenav i {
