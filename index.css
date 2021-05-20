@@ -68,6 +68,10 @@
     padding: 5px;
 }
 
+.content-section {
+    margin-top: 50px;
+}
+
 @media screen and (min-width: 992px) {
     .sidenav {
         position: fixed;
