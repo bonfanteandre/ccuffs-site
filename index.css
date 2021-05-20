@@ -47,6 +47,10 @@
     border-bottom: 2px solid #ECF0F1;
 }
 
+.sidenav i {
+    margin-right: 5px;
+}
+
 .content p, .content ul {
     font-size: 130%;
     text-align: justify;
